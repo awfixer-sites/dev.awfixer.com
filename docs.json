@@ -41,14 +41,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Discord",
+          "href": "https://discord.awfixer.com",
+          "icon": "discord"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Patreon",
+          "href": "https://patreon.com/awfixer",
           "icon": "newspaper"
+        },
+        {
+          "anchor": "Help Center",
+          "href": "https://help.awfixer.com",
+          "icon": "book-open-cover"
         }
       ]
     }
@@ -60,13 +65,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Help Center",
         "href": "https://help.awfixer.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Community",
       "href": "https://discord.awfixer.com"
     }
   },
